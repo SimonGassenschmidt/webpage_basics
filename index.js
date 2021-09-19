@@ -1,0 +1,2 @@
+// Kommentar
+alert('Hallo Welt!');
